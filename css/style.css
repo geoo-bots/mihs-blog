@@ -1,0 +1,22 @@
+.botao{
+    
+    width: 300px;
+    background: rgb(185, 83, 52);
+    padding: 50px;
+    border-radius: 50px;
+    text-align: center;
+    margin: 30px auto;
+    color: aliceblue;
+    border-style: solid;
+    border-color: blanchedalmond;
+    border
+ 
+}
+
+.botao:hover{
+    background-color: chocolate;
+}
+
+body{
+    background-color:rgb(245, 149, 85);
+}
